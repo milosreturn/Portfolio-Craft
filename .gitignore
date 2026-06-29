@@ -1,0 +1,22 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio cache/options
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Environment / secrets
+appsettings.Development.json
+*.env
+
+# NuGet
+packages/
+*.nupkg
+
+# OS files
+.DS_Store
+Thumbs.db
