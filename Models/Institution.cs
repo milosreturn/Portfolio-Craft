@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 namespace PortfolioCraft.Models
 {
     internal class Institution
-    {
+    { 
+          
     }
 }
+ 
